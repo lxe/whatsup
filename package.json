@@ -1,6 +1,6 @@
 {
   "name": "whatsup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Continously log what callbacks a node process is waiting for.",
   "main": "whatsup.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/lxe/whatsup"
+    "url": "https://github.com/lxe/whatsup.git"
   },
   "keywords": [
     "debug",
