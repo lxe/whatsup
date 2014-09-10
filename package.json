@@ -1,0 +1,29 @@
+{
+  "name": "whatsup",
+  "version": "1.0.0",
+  "description": "Continously log what callbacks a node process is waiting for.",
+  "main": "whatsup.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/lxe/whatsup"
+  },
+  "keywords": [
+    "debug",
+    "profile",
+    "callbacks",
+    "handles",
+    "nodewtf"
+  ],
+  "author": "Aleksey Smolenchuk <lxe@lxe.co>",
+  "license": "ISC",
+  "bin": {
+    "whatsup": "whatsup.js"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  }
+}
